@@ -7,7 +7,8 @@ fullnameOverride: ""
 
 images:
   owlsui:
-    repository: tip-tip-wlan-cloud-ucentral.jfrog.io/owls-ui
+    #repository: tip-tip-wlan-cloud-ucentral.jfrog.io/owls-ui
+    repository: 588354938798.dkr.ecr.ap-south-1.amazonaws.com/owls-ui
     tag: master
     pullPolicy: Always
 
